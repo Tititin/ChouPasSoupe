@@ -1,7 +1,7 @@
 # ChouPasSoupe
 
 ## Project description
-Mini-game where the player have to plant and harvest his vegetables.
+Mini-game where the player has to plant and harvest his vegetables.
 
 ### Controls
 
